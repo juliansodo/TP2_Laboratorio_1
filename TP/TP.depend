@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1569985315 source:c:\users\jajas\desktop\facultad\tp2\tp\main.c
+	"Employees.h"
+
+1570159133 c:\users\jajas\desktop\facultad\tp2\tp\employees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570159645 source:c:\users\jajas\desktop\facultad\tp2\tp\employees.c
+	"Employees.h"
+
